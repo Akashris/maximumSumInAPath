@@ -1,0 +1,11 @@
+E:\Akash\sumInATriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.deps.json
+E:\Akash\sumInATriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.runtimeconfig.json
+E:\Akash\sumInATriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.runtimeconfig.dev.json
+E:\Akash\sumInATriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.dll
+E:\Akash\sumInATriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.pdb
+E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.csprojAssemblyReference.cache
+E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.csproj.CoreCompileInputs.cache
+E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.AssemblyInfoInputs.cache
+E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.AssemblyInfo.cs
+E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.dll
+E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.pdb
