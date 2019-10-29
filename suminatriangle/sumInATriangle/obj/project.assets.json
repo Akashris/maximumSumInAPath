@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Akash\\sumInATriangle\\sumInATriangle\\sumInATriangle.csproj",
+      "projectUniqueName": "C:\\Users\\akash\\Desktop\\Akash\\maximumSumInAPath\\suminatriangle\\sumInATriangle\\sumInATriangle.csproj",
       "projectName": "sumInATriangle",
-      "projectPath": "E:\\Akash\\sumInATriangle\\sumInATriangle\\sumInATriangle.csproj",
+      "projectPath": "C:\\Users\\akash\\Desktop\\Akash\\maximumSumInAPath\\suminatriangle\\sumInATriangle\\sumInATriangle.csproj",
       "packagesPath": "C:\\Users\\akash\\.nuget\\packages\\",
-      "outputPath": "E:\\Akash\\sumInATriangle\\sumInATriangle\\obj\\",
+      "outputPath": "C:\\Users\\akash\\Desktop\\Akash\\maximumSumInAPath\\suminatriangle\\sumInATriangle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

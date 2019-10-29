@@ -9,3 +9,14 @@ E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.As
 E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.AssemblyInfo.cs
 E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.dll
 E:\Akash\sumInATriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.pdb
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.deps.json
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.runtimeconfig.json
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.runtimeconfig.dev.json
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.dll
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\bin\Debug\netcoreapp2.0\sumInATriangle.pdb
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.csprojAssemblyReference.cache
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.csproj.CoreCompileInputs.cache
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.AssemblyInfoInputs.cache
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.AssemblyInfo.cs
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.dll
+C:\Users\akash\Desktop\Akash\maximumSumInAPath\suminatriangle\sumInATriangle\obj\Debug\netcoreapp2.0\sumInATriangle.pdb

@@ -6,6 +6,7 @@ namespace sumInATriangle
     {
         int row, rowIndex, colmnIndex;
         int[,] triangleArray = new int[100, 100];
+        string[] rowValue = new string[100];
 
         //Getting input from the user      
         public void getValue()
@@ -15,21 +16,24 @@ namespace sumInATriangle
             {
                 Console.WriteLine("\nEnter no. of rows");
                 row = Convert.ToInt32(Console.ReadLine());
-                if(row<1)
+                if (row < 1)
                 {
                     Console.WriteLine("\nEnter a non-zero or a positive number");
                 }
-                
+
             }
-                Console.WriteLine("\nEnter The Values");
-                for (rowIndex = 0; rowIndex < row; rowIndex++)
+            //Entering values
+            Console.WriteLine("\nEnter The Values");
+            for (rowIndex = 0; rowIndex < row; rowIndex++)
+            {
+                rowValue[rowIndex] = Console.ReadLine();
+
+                for (colmnIndex = 0; colmnIndex <= rowIndex; colmnIndex++)
                 {
-                    for (colmnIndex = 0; colmnIndex <= rowIndex; colmnIndex++)
-                    {
-                        triangleArray[rowIndex, colmnIndex] = Convert.ToInt32(Console.ReadLine());
-                    }
+                    triangleArray[rowIndex, colmnIndex] = Int32.Parse(rowValue[rowIndex].Split(' ')[colmnIndex]);
                 }
-         
+            }
+
         }
 
         //Printing the triangle array
@@ -75,33 +79,31 @@ namespace sumInATriangle
             Console.WriteLine("--------------------------");
         }
 
-   
+
         static void Main(string[] args)
         {
-            //int row, rowIndex, colmnIndex, iteration,iterationIndex;
-            //int[,] triangleArray = new int[100, 100];
             maximumPath max = new maximumPath();
-            int iteration,iterationIndex;
+            int iteration, iterationIndex;
             iteration = -1;
-            while(iteration<1)
+            while (iteration < 1)
             {
                 Console.WriteLine("\nEnter the number of Test Cases : \n");
-                iteration = Convert.ToInt32( Console.ReadLine());
+                iteration = Convert.ToInt32(Console.ReadLine());
                 if (iteration < 1)
                 {
                     Console.WriteLine("\nEnter a non-zero or a  positive value");
                 }
             }
-             for (iterationIndex = 1; iterationIndex <= iteration; iterationIndex++)
-             {
-                    Console.WriteLine("\nIteration {0}", +iterationIndex);
-                    max.getValue();
-                    max.printArray();
-                    max.calculateSum();
-                    max.result();
-             }
-                Console.ReadLine();
-           
+            for (iterationIndex = 1; iterationIndex <= iteration; iterationIndex++)
+            {
+                Console.WriteLine("\nIteration {0}", +iterationIndex);
+                max.getValue();
+                max.printArray();
+                max.calculateSum();
+                max.result();
+            }
+            Console.ReadLine();
+
         }
     }
 }
